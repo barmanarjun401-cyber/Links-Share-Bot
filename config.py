@@ -34,8 +34,8 @@ START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛ�
 HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/ABANIMEOFFICIAL>Eren</a>\n» Our Community: <a href=https://t.me/ABANIMEOFFICIAL>Flix Network</a>\n» Anime Channel: <a href=https://t.me/ABANIMEOFFICIAL>AB Anime</a>\n» Ongoing Anime: <a href=https://t.me/dub_anime_zz>Crunchyroll Hindi</a>\n» Developer: <a href=https://t.me/ABANIMEOFFICIAL>Eren</a></b>")
 ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed by Eren (@ABANIMEOFFICIAL) to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</b>")
 
-ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/ABANIMEOFFICIAL'>ᴏᴛᴀᴋᴜғʟɪx</a>
-<blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ABANIMEOFFICIAL'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>
+ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/ABANIMEOFFICIAL'>AB Anime</a>
+<blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ABANIMEOFFICIAL'> AB Anime</a>
 ›› ᴏᴡɴᴇʀ: <a href='https://t.me/Eren_Yeager_76'>Eren</a>
 ›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
