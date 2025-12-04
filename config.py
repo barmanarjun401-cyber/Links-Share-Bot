@@ -1,4 +1,4 @@
-# +++ Modified By [telegram username: @Eren_Yeager76
+# +++ Modified By [telegram username: @Eren_Yeager_76
 import os
 from os import environ
 import logging
@@ -19,7 +19,7 @@ DB_NAME = os.environ.get("DB_NAME", "link")
 
 #Auto approve 
 CHAT_ID = [int(app_chat_id) if id_pattern.search(app_chat_id) else app_chat_id for app_chat_id in environ.get('CHAT_ID', '').split()] # dont change anything 
-TEXT = environ.get("APPROVED_WELCOME_TEXT", "<b>{mention},\n\nʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ ᴛᴏ ᴊᴏɪɴ {title} ɪs ᴀᴘᴘʀᴏᴠᴇᴅ.\n\‣ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @Codeflix_Bots</b>")
+TEXT = environ.get("APPROVED_WELCOME_TEXT", "<b>{mention},\n\nʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ ᴛᴏ ᴊᴏɪɴ {title} ɪs ᴀᴘᴘʀᴏᴠᴇᴅ.\n\‣ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @ABANIMEOFFICIAL</b>")
 APPROVED = environ.get("APPROVED_WELCOME", "on").lower()
 
 # Default
